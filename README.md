@@ -3,6 +3,16 @@
 
 The **php-shell** is a simple and user-friendly PHP web shell designed for penetration testing purposes. It allows users to execute shell commands on a server directly through a web interface, facilitating tasks such as command execution, file uploads, and downloads.
 
+
+### Username
+```bash
+admin
+```
+### Password
+```bash
+R00t
+```
+
 ## Key Features ⚙️
 
 - **Command Execution**: Run shell commands directly from the web interface.
@@ -101,52 +111,6 @@ Type `download [filename]` (replace `[filename]` with the actual file name) and 
 </div>
 ```
 
-### Basic Styles for PHP Shell 🖌️
-
-```css
-h1, h2 {
-    color: #4caf50;
-}
-#command-input {
-    width: 100%;
-    padding: 10px;
-    margin-top: 10px;
-    background-color: #2e2e2e;
-    border: 1px solid #444;
-    color: #fff;
-}
-#output {
-    background-color: #2e2e2e;
-    padding: 10px;
-    margin-top: 10px;
-    border: 1px solid #444;
-    white-space: pre-wrap;
-    overflow-y: auto;
-    max-height: 400px;
-}
-.command {
-    color: #4caf50;
-}
-.error {
-    color: #f44336;
-}
-.login-form {
-    background-color: #2e2e2e;
-    padding: 20px;
-    border-radius: 5px;
-    margin-bottom: 20px;
-}
-.login-form input {
-    margin-bottom: 10px;
-    padding: 10px;
-    width: 100%;
-    background-color: #444;
-    border: 1px solid #666;
-    color: #fff;
-}
-```
-
----
 
 ### License 📄
 
