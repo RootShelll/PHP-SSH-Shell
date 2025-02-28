@@ -1,7 +1,8 @@
 
 # PHP SSH Shell - User Guide
-
 The **php-shell** is a simple and user-friendly PHP web shell designed for penetration testing purposes. It allows users to execute shell commands on a server directly through a web interface, facilitating tasks such as command execution, file uploads, and downloads.
+
+![PHP SSH Shell](https://r00t-shell.com/wp-content/uploads/2025/02/PHP-SSH-Shell.png "PHP SSH Shell")
 
 
 ### Username
@@ -110,7 +111,8 @@ Type `download [filename]` (replace `[filename]` with the actual file name) and 
     <input value="R00t" required>
 </div>
 ```
-
+![PHP SSH Shell](https://r00t-shell.com/wp-content/uploads/2025/02/PHP-SSH-Shell.png "PHP SSH Shell")
+![PHP SSH Shell Login](https://r00t-shell.com/wp-content/uploads/2025/02/PHP-SSH-Shell-login-panel-1.png "PHP SSH Shell Login")
 
 ### License 📄
 
